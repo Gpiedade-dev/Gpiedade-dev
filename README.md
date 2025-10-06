@@ -2,7 +2,7 @@
 
 **ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (ADS)**
 
-Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise e Desenvolvimento de Sistemas  pela Uniube. Demorei um pouco para entrar na aréa pois nunca soube qual realmente me direcionar, mas como eu curto jogos, alguns sites de roupas personalizados e pensei na possibilidade em criar projetos voltados a estes hobbies!
+Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise e Desenvolvimento de Sistemas  pela Uniube. Demorei um pouco para entrar na aréa pois nunca soube qual realmente me direcionar, mas como eu curto jogos, alguns sites de roupas personalizados e pensei na possibilidade em criar projetos unicos e sempre aprender coisas novas!
 
 
 ### 🤖 Linguagens e Tecnologias
