@@ -47,15 +47,25 @@ Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 <img
     align="Left"
     alt="Node.Js"
     Title="Node.js"
     width="30px"
+<<<<<<< Updated upstream
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
 />
+=======
+    style"padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+/>
+
+>>>>>>> Stashed changes
 <br/>
 <br/>
 
