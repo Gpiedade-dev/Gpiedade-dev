@@ -52,16 +52,15 @@ Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
 
-
 <img
-    align="left"
+    align="Left"
     alt="JavaScript"
-    title="JavaScript"
+    Title="javaScript"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />  
+         
 <br/>
 <br/>
 <br/>
