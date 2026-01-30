@@ -2,7 +2,7 @@
 
 **ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (ADS)**
 
-Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise e Desenvolvimento de Sistemas  pela Uniube. Demorei um pouco para entrar na aréa pois nunca soube qual realmente me direcionar, mas como eu curto jogos, alguns sites de roupas personalizados e pensei na possibilidade em criar projetos voltados a estes hobbies!
+Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise e Desenvolvimento de Sistemas  pela Uniube. Demorei um pouco para entrar na área pois nunca soube qual realmente me direcionar, mas como eu curto jogos, alguns sites de roupas personalizadas e pensei na possibilidade em criar projetos voltados a estes hobbies!
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -15,6 +15,7 @@ Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -23,6 +24,7 @@ Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img
     align="left" 
     alt="Git" 
@@ -31,6 +33,7 @@ Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -39,33 +42,27 @@ Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img
-    align="Left"
+    align="left"
     alt="SQL"
     title="SQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 <img
-    align="Left"
-    alt="Node.Js"
-    Title="Node.js"
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
-<<<<<<< Updated upstream
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-/>
-=======
-    style"padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 />
 
->>>>>>> Stashed changes
+          
+<br/>
 <br/>
 <br/>
 
@@ -81,10 +78,11 @@ Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise
   />
 
 <img 
-align="left" 
+     align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gpiedade-dev&theme=moltack&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</p>
 
