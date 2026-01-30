@@ -50,11 +50,12 @@ Me chamo Guilherme, tenho 22 anos e sou de Minas Gerais. Estou cursando Análise
 
 <img
     align="Left"
-    alt="Node.Js"
-    Title="Node.js"
+    alt="JavaScript"
+    Title="javaScript"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 />
 <br/>
 <br/>
